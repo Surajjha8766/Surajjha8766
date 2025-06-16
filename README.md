@@ -52,11 +52,11 @@
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=surajjha08&show_icons=true&theme=nightowl&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=1DA1F2)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Surajjha8766&show_icons=true&theme=nightowl&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=1DA1F2)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=surajjha08&layout=compact&theme=nightowl&hide_border=true&bg_color=0D1117&title_color=38BDF8)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Surajjha8766&layout=compact&theme=nightowl&hide_border=true&bg_color=0D1117&title_color=38BDF8)
   
-  ![Streak Stats](https://streak-stats.demolab.com?user=surajjha08&theme=nightowl&hide_border=true&background=0D1117&stroke=1DA1F2&ring=38BDF8&fire=38BDF8&currStreakNum=FFFFFF)
+  ![Streak Stats](https://streak-stats.demolab.com?user=Surajjha8766&theme=nightowl&hide_border=true&background=0D1117&stroke=1DA1F2&ring=38BDF8&fire=38BDF8&currStreakNum=FFFFFF)
   
 </div>
 
@@ -82,7 +82,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=surajjha08&label=Profile+Views&color=1DA1F2&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Surajjha8766&label=Profile+Views&color=1DA1F2&style=flat-square" alt="Profile Views"/>
 </p>
 
 <div align="center">
