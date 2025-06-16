@@ -36,17 +36,6 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="8"/>
 </div>
 
-## 🚀 Highlighted Projects
-
-| Project | Tech Stack | Key Features | Links |
-|---------|------------|--------------|-------|
-| **E-commerce Platform** | Vue 3, Nuxt, Node, MongoDB | JWT Auth, Payment Gateway, Admin Dashboard | [Demo](#) • [Code](#) |
-| **Task Management System** | React, Redux, Express | Real-time Sync, Role-based Access | [Demo](#) • [Code](#) |
-| **API Microservices** | Node, Express, MongoDB | RESTful APIs, Rate Limiting, Swagger Docs | [Demo](#) • [Code](#) |
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="8"/>
-</div>
 
 ## 📊 Development Analytics
 
